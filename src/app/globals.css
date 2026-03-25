@@ -1,26 +1,105 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-primary: #2dd4bf;
+  --color-primary-dark: #14b8a6;
+  --color-accent: #f97316;
+  --color-dark: #0b1120;
+  --color-dark-card: rgba(255, 255, 255, 0.05);
+  --color-dark-border: rgba(255, 255, 255, 0.1);
+  --color-dark-surface: #111827;
+  --font-sans: var(--font-noto-sans);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-dark);
+  color: #e5e7eb;
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+
+/* Glass card effect */
+.glass-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.glass-card:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Gradient text */
+.text-gradient {
+  background: linear-gradient(135deg, #2dd4bf, #06b6d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Hero background overlay */
+.hero-bg {
+  background: linear-gradient(135deg, rgba(11, 17, 32, 0.95) 0%, rgba(11, 17, 32, 0.7) 50%, rgba(11, 17, 32, 0.3) 100%);
+}
+
+/* Stats card gradient border */
+.stat-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+  border-color: rgba(45, 212, 191, 0.3);
+}
+
+/* CTA gradient */
+.cta-gradient {
+  background: linear-gradient(135deg, rgba(45, 212, 191, 0.1), rgba(6, 182, 212, 0.05));
+  border: 1px solid rgba(45, 212, 191, 0.2);
+}
+
+/* Feature icon background */
+.icon-bg-orange {
+  background: rgba(249, 115, 22, 0.15);
+  color: #f97316;
+}
+
+.icon-bg-teal {
+  background: rgba(45, 212, 191, 0.15);
+  color: #2dd4bf;
+}
+
+/* Live indicator pulse */
+@keyframes pulse-live {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.live-pulse {
+  animation: pulse-live 2s ease-in-out infinite;
+}
+
+/* Section divider */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
 }

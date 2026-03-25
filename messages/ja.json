@@ -1,0 +1,206 @@
+{
+  "header": {
+    "home": "ホーム",
+    "services": "サービス",
+    "partners": "パートナー",
+    "livestream": "ライブ配信",
+    "infrastructure": "インフラ管理",
+    "contact": "お問い合わせ",
+    "cta": "お問い合わせ"
+  },
+  "hero": {
+    "badge": "BytePlus & Cloudflare 公式認定パートナー",
+    "title1": "エンタープライズ",
+    "title2": "Webプラットフォーム構築",
+    "subtitle": "CDN · ライブ配信 · インフラホスティング",
+    "description": "CDNアクセラレーション、ライブ配信プラットフォーム構築、インフラホスティングをワンストップで提供するプロフェッショナルなWebプラットフォーム企業。BytePlusおよびCloudflareとの緊密な提携により、高効率で安定したデジタルインフラを構築します。",
+    "ctaPrimary": "無料相談",
+    "ctaSecondary": "サービスを見る",
+    "scrollDown": "スクロール",
+    "stat1Value": "2000+",
+    "stat1Label": "企業クライアント",
+    "stat2Value": "99.99%",
+    "stat2Label": "サービス可用性 SLA",
+    "stat3Value": "50+",
+    "stat3Label": "グローバルCDNノード",
+    "stat4Value": "24/7",
+    "stat4Label": "テクニカルサポート"
+  },
+  "services": {
+    "sectionTag": "Services",
+    "title": "コア",
+    "titleHighlight": "サービス",
+    "description": "CDNアクセラレーションからライブ配信、インフラからセキュリティまで、包括的なデジタルインフラソリューションを提供します",
+    "items": {
+      "cdn": {
+        "tag": "BytePlus & Cloudflare",
+        "title": "CDNアクセラレーション",
+        "desc": "BytePlusとCloudflareのデュアルCDNネットワークにより、超高速なグローバルコンテンツ配信を実現し、遅延を低減してユーザー体験を向上させます。",
+        "badges": "50+グローバルノード,ミリ秒応答,DDoS防御"
+      },
+      "livestream": {
+        "tag": "Live Streaming Platform",
+        "title": "ライブ配信構築",
+        "desc": "プッシュ配信からトランスコード、配信まで、EC・イベント・ゲーム配信に安定した高画質ストリーミングを提供するワンストップソリューション。",
+        "badges": "4K超高画質配信,低遅延配信,マルチプラットフォーム配信"
+      },
+      "infra": {
+        "tag": "Infrastructure Hosting",
+        "title": "インフラホスティング",
+        "desc": "サーバー構成、運用監視、バックアップ管理を含むエンタープライズグレードのインフラ管理サービス。コアビジネスに集中できます。",
+        "badges": "99.99% SLA,24/7 監視,自動バックアップ"
+      },
+      "web": {
+        "tag": "Web Platform Development",
+        "title": "Webプラットフォーム開発",
+        "desc": "企業サイトからECプラットフォームまで、ブランドイメージに合ったデジタルフロントを構築する総合的なWeb開発サービス。",
+        "badges": "レスポンシブデザイン,SEO最適化,高性能アーキテクチャ"
+      },
+      "security": {
+        "tag": "Security Solutions",
+        "title": "セキュリティソリューション",
+        "desc": "Cloudflare WAF、SSL証明書管理、侵入検知などの包括的なセキュリティサービスで、デジタル資産を保護します。",
+        "badges": "WAF防御,SSL管理,侵入検知"
+      },
+      "storage": {
+        "tag": "Cloud Storage",
+        "title": "クラウドストレージ",
+        "desc": "BytePlusクラウドアーキテクチャに基づくエンタープライズストレージソリューション。高可用性・高拡張性で大量メディアリソースの管理に対応。",
+        "badges": "無制限スケーリング,高可用性,マルチリージョンバックアップ"
+      }
+    }
+  },
+  "partners": {
+    "sectionTag": "Partners",
+    "title": "公式",
+    "titleHighlight": "パートナー",
+    "description": "世界トップクラスのテクノロジープラットフォームとの深い提携により、最も競争力のある技術サービスを提供",
+    "byteplus": {
+      "badge": "Official Partner",
+      "name": "BytePlus",
+      "desc": "ByteDanceのエンタープライズ技術ブランド。CDNアクセラレーション、ライブ配信技術、クラウドストレージなどのグローバルソリューションを提供。公式認定パートナーとして、最適なアクセスプランをご提供します。",
+      "features": "グローバルコンテンツ配信,ライブストリーミング技術,クラウドストレージ,リアルタイム分析"
+    },
+    "cloudflare": {
+      "badge": "Authorized Reseller",
+      "name": "Cloudflare",
+      "desc": "世界をリードするネットワークセキュリティおよびCDNプロバイダー。インターネットトラフィックの25%以上を保護。当社の提携資格により、専用プランと優先テクニカルサポートをご利用いただけます。",
+      "features": "グローバルCDN加速,DDoS防御,Webアプリケーションファイアウォール,Zero Trustセキュリティ"
+    },
+    "benefits": {
+      "b1": "パートナー限定割引価格",
+      "b2": "優先テクニカルサポート",
+      "b3": "公式認定サービス保証",
+      "b4": "迅速な導入・展開"
+    }
+  },
+  "livestream": {
+    "sectionTag": "Live Streaming",
+    "title": "プロフェッショナル",
+    "titleHighlight": "ライブ配信",
+    "titleEnd": "プラットフォーム",
+    "description": "技術選定からプラットフォームローンチまで、企業のライブ配信市場参入を支援する完全なソリューション",
+    "cta": "配信プラットフォーム構築を開始",
+    "statusOnline": "配信システム稼働中",
+    "statusViewers": "リアルタイム視聴者：124,583人",
+    "stability": "配信安定性",
+    "latency": "平均遅延",
+    "features": {
+      "f1": { "title": "超高画質配信", "desc": "1080P / 4K超高画質対応。マルチビットレート自動調整で、すべての視聴者に最適な視聴体験を提供します。" },
+      "f2": { "title": "超低遅延配信", "desc": "ミリ秒レベルのWebRTC配信技術。インタラクション遅延は500msまで低減し、対面のようなライブ体験を実現。" },
+      "f3": { "title": "マルチプラットフォーム配信", "desc": "ワンクリックで複数の主要プラットフォームへ同時配信。異なるプラットフォームの視聴者にリーチし、露出を最大化。" },
+      "f4": { "title": "リアルタイムダッシュボード", "desc": "視聴者数、エンゲージメント率、収益データをリアルタイムで監視。包括的なライブ配信分析レポートを提供。" },
+      "f5": { "title": "完全なマネタイズシステム", "desc": "バーチャルギフト、有料サブスクリプション、投げ銭システムを内蔵。持続可能なライブ配信ビジネスモデルの構築を支援。" },
+      "f6": { "title": "著作権保護機能", "desc": "多層暗号化ストリーム保護により、無断録画や海賊版配信を防止。ライブコンテンツの著作権を守ります。" }
+    },
+    "useCases": {
+      "u1": { "value": "300+", "label": "ECライブコマース" },
+      "u2": { "value": "120+", "label": "eスポーツイベント" },
+      "u3": { "value": "500+", "label": "オンライン教育" },
+      "u4": { "value": "80+", "label": "コンサート & イベント" }
+    }
+  },
+  "infrastructure": {
+    "sectionTag": "Infrastructure",
+    "title": "インフラ",
+    "titleHighlight": "ホスティングサービス",
+    "description": "専門家にインフラをお任せください。すべての基盤インフラを管理し、ビジネス価値の創造に集中できる環境を提供します",
+    "stats": {
+      "s1": { "value": "99.99%", "label": "システム可用性" },
+      "s2": { "value": "< 15分", "label": "障害対応時間" },
+      "s3": { "value": "毎日", "label": "自動バックアップ頻度" },
+      "s4": { "value": "100%", "label": "監視カバレッジ" }
+    },
+    "items": {
+      "i1": { "title": "専用サーバーホスティング", "desc": "物理サーバー、VPS、クラウドサーバーの包括的なホスティングサービス。機器調達からラック設置、日常運用まで対応。", "badges": "最新世代Intel Xeonプロセッサ,エンタープライズNVMe SSD,冗長マルチルート帯域" },
+      "i2": { "title": "ハイブリッドクラウド設計", "desc": "オンプレミスとクラウドリソースを組み合わせた柔軟でスケーラブルなハイブリッドクラウドアーキテクチャ。コスト最適化を実現。", "badges": "自動スケーリング,クロスクラウドバックアップ,統合管理コンソール" },
+      "i3": { "title": "24時間365日運用監視", "desc": "ハードウェアの健全性からアプリケーションパフォーマンスまで、24時間体制のシステム監視。異常時は即座にアラートを発信。", "badges": "5分間隔ヘルスチェック,スマートアラートシステム,高速対応SLA" },
+      "i4": { "title": "データベース管理サービス", "desc": "MySQL、PostgreSQL、MongoDBなど主要データベースの構築、最適化、バックアップ、災害復旧の包括的なサービス。", "badges": "自動バックアップスケジューリング,プライマリ・レプリカ構成,パフォーマンスチューニング" }
+    },
+    "ctaTitle": "インフラを私たちにお任せする準備はできましたか？",
+    "ctaDesc": "現行アーキテクチャの無料評価と、最適な移行・ホスティングプランをご提案",
+    "ctaButton": "無料評価を予約"
+  },
+  "contact": {
+    "sectionTag": "Contact",
+    "title": "お問い",
+    "titleHighlight": "合わせ",
+    "description": "ご質問やご要望がございましたら、専門コンサルティングチームが最適なソリューションをご提案いたします",
+    "info": {
+      "email": { "label": "メール", "value": "hello@platform.tw" },
+      "phone": { "label": "電話番号", "value": "+886 2 1234-5678" },
+      "address": { "label": "所在地", "value": "台北市信義区松仁路100号" },
+      "hours": { "label": "営業時間", "value": "月曜〜金曜 09:00–18:00" }
+    },
+    "form": {
+      "name": "お名前",
+      "namePlaceholder": "お名前",
+      "company": "会社名",
+      "companyPlaceholder": "会社名",
+      "email": "メールアドレス",
+      "emailPlaceholder": "you@example.com",
+      "phone": "電話番号",
+      "phonePlaceholder": "電話番号",
+      "service": "ご興味のあるサービス",
+      "servicePlaceholder": "サービスを選択",
+      "serviceOptions": {
+        "cdnByteplus": "CDNアクセラレーション (BytePlus)",
+        "cdnCloudflare": "CDNアクセラレーション (Cloudflare)",
+        "livestream": "ライブ配信プラットフォーム",
+        "infra": "インフラホスティング",
+        "web": "Webプラットフォーム開発",
+        "security": "セキュリティソリューション",
+        "other": "その他のお問い合わせ"
+      },
+      "message": "ご要望の詳細（500文字以内）",
+      "messagePlaceholder": "ご要望やご質問をご記入ください...",
+      "submit": "送信する",
+      "required": "*"
+    }
+  },
+  "footer": {
+    "description": "CDNアクセラレーション、ライブ配信構築、インフラホスティングを提供するプロフェッショナルなWebプラットフォーム企業。BytePlusおよびCloudflare公式認定パートナー。",
+    "services": "サービス",
+    "serviceLinks": {
+      "cdn": "CDNアクセラレーション",
+      "livestream": "ライブ配信構築",
+      "infra": "インフラホスティング",
+      "security": "セキュリティソリューション"
+    },
+    "partnersTitle": "パートナー",
+    "partnerLinks": {
+      "byteplus": "BytePlus提携",
+      "cloudflare": "Cloudflare提携",
+      "become": "パートナーになる"
+    },
+    "companyTitle": "会社情報",
+    "companyLinks": {
+      "about": "会社概要",
+      "services": "サービス一覧",
+      "contact": "お問い合わせ"
+    },
+    "copyright": "© 2025 Platform Co. All rights reserved. BytePlusおよびCloudflareは各社の商標です。",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

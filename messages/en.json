@@ -1,0 +1,206 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "partners": "Partners",
+    "livestream": "Live Streaming",
+    "infrastructure": "Infrastructure",
+    "contact": "Contact Us",
+    "cta": "Get Started"
+  },
+  "hero": {
+    "badge": "BytePlus & Cloudflare Official Authorized Partner",
+    "title1": "Enterprise-Grade",
+    "title2": "Web Platform Solutions",
+    "subtitle": "CDN · Live Streaming · Infrastructure Hosting",
+    "description": "A professional web platform company offering CDN acceleration, live streaming setup, and infrastructure hosting as an all-in-one solution. In deep partnership with BytePlus and Cloudflare to build efficient and stable digital infrastructure for enterprises.",
+    "ctaPrimary": "Free Consultation",
+    "ctaSecondary": "Explore Services",
+    "scrollDown": "Scroll Down",
+    "stat1Value": "2000+",
+    "stat1Label": "Enterprise Clients",
+    "stat2Value": "99.99%",
+    "stat2Label": "Service Availability SLA",
+    "stat3Value": "50+",
+    "stat3Label": "Global CDN Nodes",
+    "stat4Value": "24/7",
+    "stat4Label": "Technical Support"
+  },
+  "services": {
+    "sectionTag": "Services",
+    "title": "Core ",
+    "titleHighlight": "Services",
+    "description": "From CDN acceleration to live streaming, from infrastructure to security — we provide comprehensive digital infrastructure solutions",
+    "items": {
+      "cdn": {
+        "tag": "BytePlus & Cloudflare",
+        "title": "CDN Acceleration",
+        "desc": "Leveraging both BytePlus and Cloudflare CDN networks for ultra-fast global content delivery, reducing latency and enhancing user experience.",
+        "badges": "50+ Global Nodes,Millisecond Response,DDoS Protection"
+      },
+      "livestream": {
+        "tag": "Live Streaming Platform",
+        "title": "Live Streaming Setup",
+        "desc": "One-stop live streaming solution from ingest, transcoding to distribution — delivering stable HD streaming for e-commerce, events, and gaming.",
+        "badges": "4K Ultra HD,Low-Latency Streaming,Multi-Platform Distribution"
+      },
+      "infra": {
+        "tag": "Infrastructure Hosting",
+        "title": "Infrastructure Hosting",
+        "desc": "Enterprise-grade infrastructure hosting including server configuration, monitoring, and backup management — so you can focus on your core business.",
+        "badges": "99.99% SLA,24/7 Monitoring,Auto Backup"
+      },
+      "web": {
+        "tag": "Web Platform Development",
+        "title": "Web Platform Development",
+        "desc": "From corporate websites to e-commerce platforms — comprehensive planning, design, development, and deployment to create your digital presence.",
+        "badges": "Responsive Design,SEO Optimized,High Performance"
+      },
+      "security": {
+        "tag": "Security Solutions",
+        "title": "Security Solutions",
+        "desc": "Integrated Cloudflare WAF, SSL certificate management, intrusion detection, and comprehensive security services to protect your digital assets.",
+        "badges": "WAF Protection,SSL Management,Intrusion Detection"
+      },
+      "storage": {
+        "tag": "Cloud Storage",
+        "title": "Cloud Storage",
+        "desc": "Enterprise-grade storage solutions built on BytePlus cloud architecture with high availability and scalability for massive media resource management.",
+        "badges": "Unlimited Scaling,High Availability,Multi-Region Backup"
+      }
+    }
+  },
+  "partners": {
+    "sectionTag": "Partners",
+    "title": "Official ",
+    "titleHighlight": "Partners",
+    "description": "Deep collaboration with world-leading technology platforms to deliver the most competitive technical services",
+    "byteplus": {
+      "badge": "Official Partner",
+      "name": "BytePlus",
+      "desc": "ByteDance's enterprise technology brand offering CDN acceleration, live streaming, cloud storage, and other global solutions. As an authorized partner, we provide the most favorable access plans.",
+      "features": "Global Content Delivery,Live Streaming Tech,Cloud Storage Solutions,Real-time Analytics"
+    },
+    "cloudflare": {
+      "badge": "Authorized Reseller",
+      "name": "Cloudflare",
+      "desc": "The world's leading network security and CDN provider, protecting over 25% of internet traffic. Through our partnership, enterprises enjoy exclusive plans and priority technical support.",
+      "features": "Global CDN Acceleration,DDoS Protection,Web Application Firewall,Zero Trust Security"
+    },
+    "benefits": {
+      "b1": "Exclusive Partner Pricing",
+      "b2": "Priority Technical Support",
+      "b3": "Official Certified Service",
+      "b4": "Rapid Deployment"
+    }
+  },
+  "livestream": {
+    "sectionTag": "Live Streaming",
+    "title": "Professional ",
+    "titleHighlight": "Live Streaming",
+    "titleEnd": " Platform",
+    "description": "From technology selection to platform launch — complete live streaming solutions to help enterprises enter the streaming market",
+    "cta": "Start Building Your Platform",
+    "statusOnline": "Live System Operational",
+    "statusViewers": "Live Viewers: 124,583",
+    "stability": "Stream Stability",
+    "latency": "Avg Latency",
+    "features": {
+      "f1": { "title": "Ultra HD Streaming", "desc": "Support for 1080P / 4K ultra-clear streaming with adaptive bitrate, ensuring the best viewing experience for every viewer." },
+      "f2": { "title": "Ultra-Low Latency", "desc": "Millisecond-level WebRTC streaming technology with interaction delay as low as 500ms, making live interactions feel face-to-face." },
+      "f3": { "title": "Multi-Platform Distribution", "desc": "One-click simultaneous streaming to multiple major platforms, reaching audiences across different platforms to maximize exposure." },
+      "f4": { "title": "Real-time Dashboard", "desc": "Real-time monitoring of viewer count, engagement rate, and revenue data, providing comprehensive live streaming analytics." },
+      "f5": { "title": "Monetization System", "desc": "Built-in virtual gifts, paid subscriptions, and tipping system to help you quickly build a sustainable live streaming business model." },
+      "f6": { "title": "Copyright Protection", "desc": "Multi-layer encrypted stream protection against unauthorized recording and piracy, safeguarding your live content copyright." }
+    },
+    "useCases": {
+      "u1": { "value": "300+", "label": "E-commerce Live Sales" },
+      "u2": { "value": "120+", "label": "Esports Events" },
+      "u3": { "value": "500+", "label": "Online Courses" },
+      "u4": { "value": "80+", "label": "Concerts & Events" }
+    }
+  },
+  "infrastructure": {
+    "sectionTag": "Infrastructure",
+    "title": "Infrastructure ",
+    "titleHighlight": "Hosting Services",
+    "description": "Leave the infrastructure to the experts — we handle everything underneath so you can focus on creating business value",
+    "stats": {
+      "s1": { "value": "99.99%", "label": "System Uptime" },
+      "s2": { "value": "< 15 min", "label": "Incident Response Time" },
+      "s3": { "value": "Daily", "label": "Auto Backup Frequency" },
+      "s4": { "value": "100%", "label": "Monitoring Coverage" }
+    },
+    "items": {
+      "i1": { "title": "Dedicated Server Hosting", "desc": "Full-service hosting for physical servers, VPS, and cloud servers — from procurement and rack installation to daily operations.", "badges": "Latest Intel Xeon Processors,Enterprise NVMe SSD Storage,Redundant Multi-Route Bandwidth" },
+      "i2": { "title": "Hybrid Cloud Architecture", "desc": "Combining on-premises and cloud resources to design flexible, scalable hybrid cloud architecture with optimized costs.", "badges": "Auto-Scaling,Cross-Cloud Backup,Unified Management Console" },
+      "i3": { "title": "24/7 Operations Monitoring", "desc": "Round-the-clock system monitoring from hardware health to application performance with instant alerts to ensure business continuity.", "badges": "5-min Heartbeat Checks,Smart Alert System,Fast Response SLA" },
+      "i4": { "title": "Database Management", "desc": "Complete setup, optimization, backup, and disaster recovery services for MySQL, PostgreSQL, MongoDB, and other major databases.", "badges": "Automated Backup Scheduling,Primary-Replica Architecture,Performance Tuning Consulting" }
+    },
+    "ctaTitle": "Ready to hand over your infrastructure to us?",
+    "ctaDesc": "Free assessment of your current architecture with a custom migration and hosting plan",
+    "ctaButton": "Book Free Assessment"
+  },
+  "contact": {
+    "sectionTag": "Contact",
+    "title": "Contact ",
+    "titleHighlight": "Us",
+    "description": "Whatever your questions or needs, our professional consulting team is always ready to provide the best solutions",
+    "info": {
+      "email": { "label": "Email", "value": "hello@platform.tw" },
+      "phone": { "label": "Phone", "value": "+886 2 1234-5678" },
+      "address": { "label": "Address", "value": "No. 100, Songren Rd, Xinyi Dist, Taipei" },
+      "hours": { "label": "Business Hours", "value": "Mon–Fri 09:00–18:00" }
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "company": "Company",
+      "companyPlaceholder": "Your company",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone number",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select service type",
+      "serviceOptions": {
+        "cdnByteplus": "CDN Acceleration (BytePlus)",
+        "cdnCloudflare": "CDN Acceleration (Cloudflare)",
+        "livestream": "Live Streaming Platform",
+        "infra": "Infrastructure Hosting",
+        "web": "Web Platform Development",
+        "security": "Security Solutions",
+        "other": "Other Inquiry"
+      },
+      "message": "Description (max 500 chars)",
+      "messagePlaceholder": "Describe your needs or questions...",
+      "submit": "Submit Inquiry",
+      "required": "*"
+    }
+  },
+  "footer": {
+    "description": "Professional web platform company providing CDN acceleration, live streaming setup, and infrastructure hosting. Official authorized partner of BytePlus and Cloudflare.",
+    "services": "Services",
+    "serviceLinks": {
+      "cdn": "CDN Acceleration",
+      "livestream": "Live Streaming",
+      "infra": "Infrastructure Hosting",
+      "security": "Security Solutions"
+    },
+    "partnersTitle": "Partners",
+    "partnerLinks": {
+      "byteplus": "BytePlus Partnership",
+      "cloudflare": "Cloudflare Partnership",
+      "become": "Become a Partner"
+    },
+    "companyTitle": "Company",
+    "companyLinks": {
+      "about": "About Us",
+      "services": "Services",
+      "contact": "Contact Us"
+    },
+    "copyright": "© 2025 Platform Co. All rights reserved. BytePlus and Cloudflare are trademarks of their respective companies.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

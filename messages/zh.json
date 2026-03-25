@@ -1,0 +1,206 @@
+{
+  "header": {
+    "home": "首頁",
+    "services": "服務項目",
+    "partners": "合作夥伴",
+    "livestream": "直播平台",
+    "infrastructure": "基礎設施代管",
+    "contact": "聯絡我們",
+    "cta": "立即諮詢"
+  },
+  "hero": {
+    "badge": "BytePlus & Cloudflare 官方授權合作夥伴",
+    "title1": "企業級",
+    "title2": "網站平台建設",
+    "subtitle": "CDN · 直播 · 基礎設施代管",
+    "description": "專業網站平台建設公司，提供 CDN 加速、直播平台搭建與基礎設施代管一站式解決方案。與 BytePlus 及 Cloudflare 深度合作，為企業打造高效穩定的數位基礎建設。",
+    "ctaPrimary": "免費諮詢方案",
+    "ctaSecondary": "探索服務",
+    "scrollDown": "向下滾動",
+    "stat1Value": "2000+",
+    "stat1Label": "企業客戶",
+    "stat2Value": "99.99%",
+    "stat2Label": "服務可用性 SLA",
+    "stat3Value": "50+",
+    "stat3Label": "全球 CDN 節點",
+    "stat4Value": "24/7",
+    "stat4Label": "技術支援服務"
+  },
+  "services": {
+    "sectionTag": "Services",
+    "title": "核心",
+    "titleHighlight": "服務項目",
+    "description": "從 CDN 加速到直播平台，從基礎設施到資安防護，我們提供完整的數位基礎建設解決方案",
+    "items": {
+      "cdn": {
+        "tag": "BytePlus & Cloudflare",
+        "title": "CDN 加速服務",
+        "desc": "透過 BytePlus 與 Cloudflare 雙重 CDN 網絡，為您的網站提供極速全球內容分發，降低延遲，提升用戶體驗。",
+        "badges": "全球 50+ 節點,毫秒級回應,DDoS 防護"
+      },
+      "livestream": {
+        "tag": "Live Streaming Platform",
+        "title": "直播平台搭建",
+        "desc": "一站式直播技術解決方案，從推流、轉碼到分發，為電商直播、活動直播、遊戲直播提供穩定高清串流。",
+        "badges": "4K 超清直播,低延遲推流,多平台分發"
+      },
+      "infra": {
+        "tag": "Infrastructure Hosting",
+        "title": "基礎設施代管",
+        "desc": "企業級基礎設施代管服務，包含伺服器配置、維運監控、備份管理，讓您專注核心業務，無後顧之憂。",
+        "badges": "99.99% SLA,24/7 監控,自動備份"
+      },
+      "web": {
+        "tag": "Web Platform Development",
+        "title": "網站平台建設",
+        "desc": "從企業官網到電商平台，提供完整網站規劃、設計、開發及上線服務，打造符合品牌形象的數位門面。",
+        "badges": "響應式設計,SEO 優化,高效能架構"
+      },
+      "security": {
+        "tag": "Security Solutions",
+        "title": "資安防護方案",
+        "desc": "整合 Cloudflare WAF、SSL 憑證管理、入侵偵測等全方位資安服務，守護企業數位資產安全。",
+        "badges": "WAF 防護,SSL 管理,入侵偵測"
+      },
+      "storage": {
+        "tag": "Cloud Storage",
+        "title": "雲端儲存服務",
+        "desc": "基於 BytePlus 雲端架構的企業級儲存解決方案，高可用性、高擴展性，輕鬆應對海量媒體資源管理需求。",
+        "badges": "無限擴充,高可用性,多地備援"
+      }
+    }
+  },
+  "partners": {
+    "sectionTag": "Partners",
+    "title": "官方",
+    "titleHighlight": "合作夥伴",
+    "description": "與全球頂尖科技平台深度合作，為企業帶來最具競爭力的技術服務",
+    "byteplus": {
+      "badge": "Official Partner",
+      "name": "BytePlus",
+      "desc": "ByteDance 旗下企業技術服務品牌，提供 CDN 加速、直播技術、雲端儲存等全球化技術解決方案。作為官方授權合作夥伴，我們可為您提供最優惠的接入方案。",
+      "features": "全球內容分發,直播串流技術,雲端儲存解決方案,即時數據分析"
+    },
+    "cloudflare": {
+      "badge": "Authorized Reseller",
+      "name": "Cloudflare",
+      "desc": "全球領先的網路安全與 CDN 服務商，守護超過 25% 的互聯網流量。透過我們的合作資格，企業可享受專屬方案與優先技術支援。",
+      "features": "CDN 全球加速,DDoS 防護,Web 應用防火牆,Zero Trust 安全"
+    },
+    "benefits": {
+      "b1": "合作夥伴專屬折扣價格",
+      "b2": "優先技術支援通道",
+      "b3": "官方認證服務保障",
+      "b4": "快速開通與部署"
+    }
+  },
+  "livestream": {
+    "sectionTag": "Live Streaming",
+    "title": "專業",
+    "titleHighlight": "直播平台",
+    "titleEnd": "建設",
+    "description": "從技術選型到平台上線，提供完整的直播解決方案，助力企業快速進軍直播市場",
+    "cta": "開始建設直播平台",
+    "statusOnline": "直播系統運作中",
+    "statusViewers": "即時在線觀眾：124,583 人",
+    "stability": "串流穩定性",
+    "latency": "平均延遲",
+    "features": {
+      "f1": { "title": "超高清直播", "desc": "支援 1080P / 4K 超清畫質，多碼率自適應，確保每位觀眾獲得最佳觀看體驗。" },
+      "f2": { "title": "超低延遲推流", "desc": "毫秒級 WebRTC 推流技術，互動延遲低至 500ms，讓直播互動如同面對面交流。" },
+      "f3": { "title": "多平台同步分發", "desc": "一鍵同步推流至多個主流平台，同時觸達不同平台觀眾群，最大化直播曝光。" },
+      "f4": { "title": "即時數據儀表板", "desc": "即時監控在線人數、互動率、收益數據，提供全面的直播數據分析報告。" },
+      "f5": { "title": "完整變現系統", "desc": "內建虛擬禮物、付費訂閱、打賞系統，協助您快速建立可持續的直播商業模式。" },
+      "f6": { "title": "版權保護機制", "desc": "多層加密串流保護，防止未授權截錄和盜播，守護您的直播內容版權。" }
+    },
+    "useCases": {
+      "u1": { "value": "300+", "label": "電商直播帶貨" },
+      "u2": { "value": "120+", "label": "電競賽事直播" },
+      "u3": { "value": "500+", "label": "線上教育課程" },
+      "u4": { "value": "80+", "label": "演唱會 & 活動" }
+    }
+  },
+  "infrastructure": {
+    "sectionTag": "Infrastructure",
+    "title": "基礎設施",
+    "titleHighlight": "代管服務",
+    "description": "讓專業的人做專業的事，我們負責所有底層基礎設施，讓您專注創造業務價值",
+    "stats": {
+      "s1": { "value": "99.99%", "label": "系統可用性" },
+      "s2": { "value": "< 15 分鐘", "label": "故障響應時間" },
+      "s3": { "value": "每日", "label": "自動資料備份頻率" },
+      "s4": { "value": "100%", "label": "監控覆蓋率" }
+    },
+    "items": {
+      "i1": { "title": "專屬伺服器代管", "desc": "提供實體主機、VPS、雲端伺服器的全方位代管服務，含設備採購、機架安裝到日常維運。", "badges": "Intel Xeon 最新世代處理器,NVMe SSD 企業級儲存,多路由冗餘頻寬" },
+      "i2": { "title": "混合雲架構設計", "desc": "結合本地端與雲端資源，設計彈性可擴充的混合雲架構，按需彈性調配資源，成本最優化。", "badges": "自動化彈性擴充,跨雲備份機制,統一管理控制台" },
+      "i3": { "title": "7×24 維運監控", "desc": "全天候系統監控服務，從硬體健康度到應用效能，異常即時告警，確保業務連續性。", "badges": "5 分鐘心跳檢測,智能告警系統,故障快速響應 SLA" },
+      "i4": { "title": "資料庫管理服務", "desc": "MySQL、PostgreSQL、MongoDB 等主流資料庫的架設、調優、備份與災難恢復全套服務。", "badges": "自動化備份排程,主從複製架構,效能調優顧問" }
+    },
+    "ctaTitle": "準備好將基礎設施交給我們了嗎？",
+    "ctaDesc": "免費進行現有架構評估，提供專屬遷移與代管方案",
+    "ctaButton": "預約免費評估"
+  },
+  "contact": {
+    "sectionTag": "Contact",
+    "title": "聯絡",
+    "titleHighlight": "我們",
+    "description": "無論您有任何問題或需求，我們的專業顧問團隊隨時準備為您提供最佳解決方案",
+    "info": {
+      "email": { "label": "電子郵件", "value": "hello@platform.tw" },
+      "phone": { "label": "聯絡電話", "value": "+886 2 1234-5678" },
+      "address": { "label": "公司地址", "value": "台北市信義區松仁路100號" },
+      "hours": { "label": "服務時間", "value": "週一至週五 09:00–18:00" }
+    },
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "您的姓名",
+      "company": "公司名稱",
+      "companyPlaceholder": "您的公司",
+      "email": "電子郵件",
+      "emailPlaceholder": "you@example.com",
+      "phone": "聯絡電話",
+      "phonePlaceholder": "您的電話號碼",
+      "service": "感興趣的服務",
+      "servicePlaceholder": "請選擇服務類型",
+      "serviceOptions": {
+        "cdnByteplus": "CDN 加速服務 (BytePlus)",
+        "cdnCloudflare": "CDN 加速服務 (Cloudflare)",
+        "livestream": "直播平台建設",
+        "infra": "基礎設施代管",
+        "web": "網站平台建設",
+        "security": "資安防護方案",
+        "other": "其他諮詢"
+      },
+      "message": "需求描述（上限 500 字）",
+      "messagePlaceholder": "請描述您的需求或問題...",
+      "submit": "送出諮詢",
+      "required": "*"
+    }
+  },
+  "footer": {
+    "description": "專業網站平台建設公司，提供 CDN 加速、直播平台搭建與基礎設施代管服務。BytePlus 及 Cloudflare 官方授權合作夥伴。",
+    "services": "服務",
+    "serviceLinks": {
+      "cdn": "CDN 加速服務",
+      "livestream": "直播平台建設",
+      "infra": "基礎設施代管",
+      "security": "資安防護方案"
+    },
+    "partnersTitle": "合作夥伴",
+    "partnerLinks": {
+      "byteplus": "BytePlus 合作",
+      "cloudflare": "Cloudflare 合作",
+      "become": "成為合作夥伴"
+    },
+    "companyTitle": "公司",
+    "companyLinks": {
+      "about": "關於我們",
+      "services": "服務項目",
+      "contact": "聯絡我們"
+    },
+    "copyright": "© 2025 Platform Co. 保留所有權利。BytePlus 及 Cloudflare 為各自公司的商標。",
+    "privacy": "隱私政策",
+    "terms": "服務條款"
+  }
+}
