@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 
-const infoIcons = ["✉", "📞", "📍", "🕘"];
+const infoIcons = ["✉", "✈️", "📍", "🕘"];
 const infoKeys = ["email", "phone", "address", "hours"] as const;
 const serviceOptionKeys = [
   "cdnByteplus", "cdnCloudflare", "livestream", "infra", "web", "security", "other",

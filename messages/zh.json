@@ -147,9 +147,9 @@
     "titleHighlight": "我們",
     "description": "無論您有任何問題或需求，我們的專業顧問團隊隨時準備為您提供最佳解決方案",
     "info": {
-      "email": { "label": "電子郵件", "value": "hello@platform.tw" },
-      "phone": { "label": "聯絡電話", "value": "+886 2 1234-5678" },
-      "address": { "label": "公司地址", "value": "台北市信義區松仁路100號" },
+      "email": { "label": "電子郵件", "value": "martin.lee@nimbusg.com" },
+      "phone": { "label": "Telegram", "value": "761287101" },
+      "address": { "label": "公司地址", "value": "臺北市大安區正聲里忠孝東路四段270號14樓之1" },
       "hours": { "label": "服務時間", "value": "週一至週五 09:00–18:00" }
     },
     "form": {

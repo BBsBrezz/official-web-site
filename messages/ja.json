@@ -147,9 +147,9 @@
     "titleHighlight": "合わせ",
     "description": "ご質問やご要望がございましたら、専門コンサルティングチームが最適なソリューションをご提案いたします",
     "info": {
-      "email": { "label": "メール", "value": "hello@platform.tw" },
-      "phone": { "label": "電話番号", "value": "+886 2 1234-5678" },
-      "address": { "label": "所在地", "value": "台北市信義区松仁路100号" },
+      "email": { "label": "メール", "value": "martin.lee@nimbusg.com" },
+      "phone": { "label": "Telegram", "value": "761287101" },
+      "address": { "label": "所在地", "value": "台北市大安区忠孝東路四段270号14階の1" },
       "hours": { "label": "営業時間", "value": "月曜〜金曜 09:00–18:00" }
     },
     "form": {
