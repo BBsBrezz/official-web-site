@@ -27,13 +27,22 @@ export default function Contact() {
         <div className="grid lg:grid-cols-2 gap-12">
           <div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-              {infoKeys.map((key, i) => (
-                <div key={key} className="glass-card rounded-xl p-5">
-                  <div className="text-xl mb-2">{infoIcons[i]}</div>
-                  <div className="text-gray-400 text-xs mb-1">{t(`info.${key}.label`)}</div>
-                  <div className="text-white font-medium text-sm">{t(`info.${key}.value`)}</div>
-                </div>
-              ))}
+              {infoKeys.map((key, i) => {
+                const link = t.has(`info.${key}.link`) ? t(`info.${key}.link`) : null;
+                return (
+                  <div key={key} className="glass-card rounded-xl p-5">
+                    <div className="text-xl mb-2">{infoIcons[i]}</div>
+                    <div className="text-gray-400 text-xs mb-1">{t(`info.${key}.label`)}</div>
+                    {link ? (
+                      <a href={link} target="_blank" rel="noopener noreferrer" className="text-white font-medium text-sm hover:text-primary transition-colors underline underline-offset-2">
+                        {t(`info.${key}.value`)}
+                      </a>
+                    ) : (
+                      <div className="text-white font-medium text-sm">{t(`info.${key}.value`)}</div>
+                    )}
+                  </div>
+                );
+              })}
             </div>
             <div
               className="h-64 rounded-2xl bg-cover bg-center"

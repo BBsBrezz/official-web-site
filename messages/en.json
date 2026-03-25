@@ -147,8 +147,8 @@
     "titleHighlight": "Us",
     "description": "Whatever your questions or needs, our professional consulting team is always ready to provide the best solutions",
     "info": {
-      "email": { "label": "Email", "value": "martin.lee@nimbusg.com" },
-      "phone": { "label": "Telegram", "value": "761287101" },
+      "email": { "label": "Email", "value": "martin.lee@nimbusg.com", "link": "mailto:martin.lee@nimbusg.com" },
+      "phone": { "label": "Telegram", "value": "761287101", "link": "tg://user?id=761287101" },
       "address": { "label": "Address", "value": "14F-1, No. 270, Sec. 4, Zhongxiao E. Rd, Da'an Dist, Taipei" },
       "hours": { "label": "Business Hours", "value": "Mon–Fri 09:00–18:00" }
     },
